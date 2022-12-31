@@ -28,6 +28,7 @@ function FeedbackList({ feedback, handleDelete }) {
     </div>
   )
 
+  // Without framer-motion package
   // return (
   //   <div className="feedback-list">
   //     {feedback.map((item) => (
